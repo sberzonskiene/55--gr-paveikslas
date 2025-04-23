@@ -1,0 +1,37 @@
+
+http://127.0.0.1:8080
+http://127.0.0.1:8081
+http://127.0.0.1:1
+http://127.0.0.1:6500 (2**16)
+
+port: 1000-10000  // neislipti is sito intervalo
+
+http://puslapis.lt
+http://www.puslapis.lt
+
+
+protokolas://domenas
+protokolas://IP adresas:portas
+
+************
+
+https://www.npmjs.com/package/dead-server
+
+
+*************
+
+https://www.w3schools.com/tags
+
+*************
+
+HTML Tagai:
+
+<pavadinimas> Tekstinis turinys </pavadinimas>  //atidarantysis ir uzdarantysis 'tagas'
+
+<pavadinimas atributas="savybes, reiksmes"> Tekstinis turinys </pavadinimas> 
+<a href="https://www.w3schools.com">
+    Visit W3Schools.com!
+</a>
+
+
+<img src="selfie.png">  // paveiksliuko atvaizdas
